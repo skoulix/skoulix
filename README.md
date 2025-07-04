@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Evan 👋</h1>
-<p align="center">Building fast, modern web experiences &mdash; one line of code at a time.</p>
+<p align="center">Building sleek web experiences — powered by caffeine, clean code, and a suspicious amount of AI.</p>
 
 ---
 
