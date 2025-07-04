@@ -11,16 +11,15 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/skoulix/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skoulix" />
-</a>
-<a href="https://github.com/skoulix/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skoulix&layout=compact&langs_count=8&card_width=320" />
-</a>
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=skoulix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://seapixel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evan-skoulikaritis)
