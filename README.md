@@ -11,15 +11,16 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## 📈 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=dark&hide_border=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" height="150" />
-</picture>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=dark&hide_border=false" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" height="150" />
+  </picture>
+</div>
 
 ---
 
