@@ -19,8 +19,8 @@ With a rich background in web development, I've excelled as a technical leader a
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=skoulix&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoulix&layout=compact&theme=tokyonight">
 </p>
 
 ---
