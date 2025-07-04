@@ -9,11 +9,9 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ---
 
-## 📈 GitHub Trends
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/skoulix/langs)](https://githubtrends.io)
-
 ## 📈 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skoulix)](https://github.com/skoulix/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skoulix&show_icons=true" height="165">
