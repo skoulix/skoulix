@@ -11,29 +11,29 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=dark&hide_border=false" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" height="150" />
-  </picture>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=dark&hide_border=false" height="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=skoulix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=skoulix&theme=darkhub&no-frame=false&no-bg=true&margin-w=10" />
 
 ---
 
 ## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://seapixel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evan-skoulikaritis)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seapixel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evan-skoulikaritis)
 
 ---
 
