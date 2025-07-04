@@ -3,7 +3,7 @@
 
 ## About Me
 
-With a rich background in web development, I've excelled as a technical leader and founder. My path has included leading vibrant teams, driving product development, and propelling startups' growth. My forte lies in managing project lifecycles, ensuring optimal usability, and translating client needs into technical specifications. As a CTO and founder, I've melded strategic insight with technical expertise to foster innovation and a culture of continuous learning.<br/>
+With a rich background in web development, I've excelled as a technical leader and founder. My path has included leading vibrant teams, driving product development, and propelling startups' growth. My forte lies in managing project lifecycles, ensuring optimal usability, and translating client needs into technical specifications. As a CTO and founder, I've melded strategic insight with technical expertise to foster innovation and a culture of continuous learning.<br/><br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false)
 
