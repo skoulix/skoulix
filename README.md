@@ -7,16 +7,8 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=dark&hide_border=false" height="150" />
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false)<br/>
 
 ## GitHub Trophies
 
