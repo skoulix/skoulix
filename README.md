@@ -8,7 +8,7 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ![](https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false)
 
-![](https://github-profile-trophy.vercel.app/?username=skoulix&theme=dark&no-frame=true&no-bg=true&margin-w=4&title=Commits&rank=S,AAA)
+![](https://github-profile-trophy.vercel.app/?username=skoulix&theme=dark&no-frame=true&no-bg=true&margin-w=4&title=Commits,S,AAA)
 
 ## Let's Connect
 
