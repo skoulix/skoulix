@@ -10,7 +10,7 @@ With a rich background in web development, I've excelled as a technical leader a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=dark&hide_border=false" height="150" />
