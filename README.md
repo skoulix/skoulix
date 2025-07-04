@@ -20,7 +20,7 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=skoulix&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=prs,commits,repos" />
+![](https://github-profile-trophy.vercel.app/?username=skoulix&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ## Let's Connect
 
