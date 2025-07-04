@@ -9,12 +9,10 @@ With a rich background in web development, I've excelled as a technical leader a
 <div style="text-align: center; margin-top: 60px;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=skoulix&theme=default&no-frame=true&no-bg=true&margin-w=4&row=1&column=1&title=Experience,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skoulix&theme=flat&no-frame=true&no-bg=true&margin-w=5&row=1&column=1" />
 </div>
 
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seapixel.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evan-skoulikaritis)
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
