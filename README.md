@@ -9,7 +9,7 @@ With a rich background in web development, I've excelled as a technical leader a
 <br/>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=skoulix&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=2&title=Experience,Commits" />
