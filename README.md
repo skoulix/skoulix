@@ -11,12 +11,12 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skoulix)](https://github.com/skoulix/github-readme-stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skoulix&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoulix">
-</p>
+<a href="https://github.com/skoulix/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=skoulix" />
+</a>
+<a href="https://github.com/skoulix/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skoulix&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
