@@ -8,9 +8,6 @@ With a rich background in web development, I've excelled as a technical leader a
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=false&count_private=false" width="100%" />
-</p>
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" width="100%" />
 </p>
 
