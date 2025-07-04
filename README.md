@@ -13,7 +13,7 @@ With a rich background in web development, I've excelled as a technical leader a
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=skoulix&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=true&count_private=true" height="150" />
   </picture>
   <picture>
