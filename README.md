@@ -1,14 +1,16 @@
 <h1 align="center">Hi there, I'm Evan 👋</h1>
 <p align="center">Building sleek web experiences — powered by caffeine, clean code, and a suspicious amount of AI.</p>
 
-## About Me
-
-With a rich background in web development, I've excelled as a technical leader and founder. My path has included leading vibrant teams, driving product development, and propelling startups' growth. My forte lies in managing project lifecycles, ensuring optimal usability, and translating client needs into technical specifications. As a CTO and founder, I've melded strategic insight with technical expertise to foster innovation and a culture of continuous learning.
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false" width="100%" />
+  ![](https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+</p>
+<p align="center">
+  ## About Me
+
+With a rich background in web development, I've excelled as a technical leader and founder. My path has included leading vibrant teams, driving product development, and propelling startups' growth. My forte lies in managing project lifecycles, ensuring optimal usability, and translating client needs into technical specifications. As a CTO and founder, I've melded strategic insight with technical expertise to foster innovation and a culture of continuous learning.
+
 </p>
 
 ## GitHub Trophies
