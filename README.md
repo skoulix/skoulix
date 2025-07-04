@@ -7,13 +7,6 @@
 
 With a rich background in web development, I've excelled as a technical leader and founder. My path has included leading vibrant teams, driving product development, and propelling startups' growth. My forte lies in managing project lifecycles, ensuring optimal usability, and translating client needs into technical specifications. As a CTO and founder, I've melded strategic insight with technical expertise to foster innovation and a culture of continuous learning.
 
-- 🔭 I’m currently working on: **[Your current project or app]**
-- 🌱 I’m learning: **[Tech you're learning]**
-- 💬 Ask me about: **Web dev, Nuxt, Tailwind, and APIs**
-- 🛠️ Tools I love: **Nuxt 3, Prisma, Vercel, Tailwind CSS**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **[Something unique about you]**
-
 ---
 
 ## 📈 GitHub Stats
