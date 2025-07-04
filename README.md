@@ -11,6 +11,10 @@ With a rich background in web development, I've excelled as a technical leader a
 
 ## 📈 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=skoulix&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=skoulix&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skoulix&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ## 🏆 GitHub Trophies
