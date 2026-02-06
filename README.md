@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Evan 👋</h1>
-<p align="center">Building sleek web experiences — powered by caffeine, clean code, and a suspicious amount of AI.</p>
+<p align="center">Building sleek web experiences - powered by caffeine, clean code, and a suspicious amount of AI.</p>
 <br/>
 
 ## About Me
